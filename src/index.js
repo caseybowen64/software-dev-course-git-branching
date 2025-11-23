@@ -1,5 +1,6 @@
 //Casey Bowen - 11/23/2025
 //This application prints squares.
+//Here is a change
 
 console.log("Hello world!");
 
